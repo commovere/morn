@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MornTestTask
+
+  Created by Andrii Andreiev on 09.12.2022.
+  
+*/
+
+"MainScreen.SearchInput.title" = "Enter number";
+"MainScreen.SearchButton.title" = "Get fact";
+"MainScreen.RandomSearchButton.title" = "Get fact about random number";
